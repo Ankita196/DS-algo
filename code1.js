@@ -28,7 +28,7 @@ function fib(n) {
 }
  console.log(fib(10))
 
-//
+//recursive method
 
  function  fib(n)
     {
